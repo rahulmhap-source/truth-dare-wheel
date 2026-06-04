@@ -252,6 +252,9 @@ QUESTIONS = {
             "What would you do with a million dollars?",
             "Who do you text the most?",
             "Have you ever talked to yourself in public?",
+            "What is your deep fantasy?",
+            "What is your favourite p category?",
+            "What is your favourite position?",
         ],
         "dares": [
             "Do 10 pushups.",
