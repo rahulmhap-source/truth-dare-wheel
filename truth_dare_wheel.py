@@ -319,6 +319,8 @@ QUESTIONS = {
             "Give every person in the room a genuine heartfelt compliment.",
             "Recreate your best or worst ever pickup line.",
             "Speak only in rhymes for the next 2 rounds.",
+            "Seduce the one of opposite gender.",
+            "A kiss on the cheeks",
         ],
     },
 }
