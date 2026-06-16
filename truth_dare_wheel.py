@@ -293,6 +293,7 @@ QUESTIONS = {
             "Wear socks on your hands for 2 rounds.",
             "Narrate everything you do for the next 2 minutes.",
             "Post an embarrassing photo to your story for 5 min.",
+            "Hello Harsh",
         ],
     },
     "🔴 Wild": {
